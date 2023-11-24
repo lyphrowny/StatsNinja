@@ -27,6 +27,7 @@ Use case is a list of actions defining the interactions between an actor and a s
   * Become a client
 * StatsNinja's client
   * Choose a different billing plan
+  * View the data, provided by the billing plan
 
 The diagram of use cases can be viewed below:
 
